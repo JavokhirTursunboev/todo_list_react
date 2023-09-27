@@ -14,8 +14,6 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "predeploy":"npm run build",
-
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -39,11 +37,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-<<<<<<< HEAD
+
   },
   "devDependencies": {
     "gh-pages": "^6.0.0"
-=======
->>>>>>> 0326d66c4f5f574d852bcc2c1e0dd7ca7f47b7bf
   }
 }
