@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-{
-  "homepage": "https://JavokhirTursunboev.github.io/todo_list_react",
-=======
+
 { "homepage": "https://JavokhirTursunboev.github.io/todo_list_react",
->>>>>>> 0326d66c4f5f574d852bcc2c1e0dd7ca7f47b7bf
   "name": "react-complete-guide",
   "version": "0.1.0",
   "private": true,
@@ -17,11 +13,9 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-<<<<<<< HEAD
     "predeploy": "npm run build",
-=======
     "predeploy":"npm run build",
->>>>>>> 0326d66c4f5f574d852bcc2c1e0dd7ca7f47b7bf
+
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
